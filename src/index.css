@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.toolbar {
+    transform: rotate(135deg);
+}
